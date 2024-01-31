@@ -212,8 +212,8 @@ section .title::after{
 }
 .social-media a:hover{
     background: var(--main-color);
-    color: crimson;
-    box-shadow: 0 0 1rem var(--main- color);
+    color: var(--second-bg-color);
+    box-shadow: 0 0 1rem var(--main-color);
 }
 .home .home-content a{
     display: inline-block;
